@@ -703,9 +703,13 @@ align-items: center;
     line-height: 20px;
   }
 
+  .contents{
+    visibility: hidden;
+  }
+
   .contentt{
     margin: 1rem 10px;
-    bottom: -10rem;
+    bottom: -12rem;
     gap: 1rem;
     padding: 1rem 4rem;
   }
